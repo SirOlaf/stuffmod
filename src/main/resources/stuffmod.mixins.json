@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "package": "com.sirolaf.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "AbstractSkeletonEntityMixin",
+    "CreeperEntityMixin",
+    "EnchantmentHelperMixin",
+    "LivingEntityMixin",
+    "MobEntityMixin",
+
+    "StuffModEntityDataMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}

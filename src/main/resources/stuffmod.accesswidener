@@ -1,0 +1,10 @@
+accessWidener v1 named
+
+accessible field net/minecraft/entity/LivingEntity climbingPos Ljava/util/Optional;
+accessible field net/minecraft/entity/LivingEntity itemUseTimeLeft I
+
+accessible field net/minecraft/entity/mob/CreeperEntity fuseTime I
+accessible field net/minecraft/entity/mob/CreeperEntity explosionRadius I
+accessible field net/minecraft/entity/mob/CreeperEntity CHARGED Lnet/minecraft/entity/data/TrackedData;
+
+accessible field net/minecraft/entity/mob/AbstractSkeletonEntity bowAttackGoal Lnet/minecraft/entity/ai/goal/BowAttackGoal;
